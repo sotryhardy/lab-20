@@ -1,5 +1,3 @@
-# Basal Metabolic Rate Calculator
-
 weight = int(input("Wprowadź swoją wagę: "))
 height = int(input("Wprowadź swój wzrost: "))
 age = int(input("Wprowadź swój wiek: "))
